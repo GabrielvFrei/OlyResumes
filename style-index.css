@@ -36,7 +36,7 @@ header{
 }
 .menu-content .list-itens li{
     cursor: pointer;
-    color: #a9a8a8;
+    color: #2f2f2f;
     font-weight: 400;
     font-size: 1vw;
     border-bottom: 1px rgb(0, 0, 0) solid;
@@ -141,7 +141,7 @@ header{
     background-color: #f6bfb03c;
     border-radius: 10vw 10vw 0 0;
     text-align: justify;
-    width: 80vw;
+    width: 60vw;
 }
 .mid-container p {
     font-weight: bold;
