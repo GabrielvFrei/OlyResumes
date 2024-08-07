@@ -143,11 +143,11 @@ header.visivel .menu-content .list-itens li:hover::after{
     align-items: center;
     flex-direction: column;
     text-align: justify;
-    background-color: #7e8df1d1;
+    background-color: #75955ed1;
     padding: 5vh;
     border-radius: 1vh;
     width: 40vw;
-    height: 40%;
+    height: 45%;
     margin-right: 1vw;
 }
 .left-bottom-second-top-container p{
@@ -297,11 +297,10 @@ header.visivel .menu-content .list-itens li:hover::after{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 5%;
+    border-radius: 2%;
     padding: 8px;
     transition: 0.7s;
-    box-shadow: 1px 0 .9em #2f2f2f;
-    border: 2px solid #2f2f2f;
+    border: 1px solid #2f2f2f37;
 }
 .right-bottom-bottom-container img{
     width: 100%;
@@ -315,8 +314,8 @@ header.visivel .menu-content .list-itens li:hover::after{
     display: none;
 }
 .right-bottom-bottom-container div:hover{
-    background-color: #7089442b;
-    transform:translateY(-4px) ;
+    background-color: #70894418;
+    transform:translateY(-2px) ;
 }
 .right-bottom-bottom-container div:hover img{
     display: none;
